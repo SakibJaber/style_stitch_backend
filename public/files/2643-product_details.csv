@@ -1,0 +1,3 @@
+﻿name,desc,wishlisted,actual_price,discounted_price,discount,category,sub_category,type,genre,brand,image_url,rating,no_of_review
+Product1,Description1,true,100,90,10,Category1,SubCategory1,Type1,Genre1,Brand1,http://image.url,4.5,100
+Product2,Description2,false,200,180,20,Category2,SubCategory2,Type2,Genre2,Brand2,http://image.url,4.0,150

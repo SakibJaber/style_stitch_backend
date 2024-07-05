@@ -1,0 +1,5 @@
+﻿name,desc,wishlisted,actual_price,discounted_price,discount,category,sub_category,type,genre,brand,image_url,rating,no_of_review
+T shirt A,t-shirt description ,FALSE,600,450,150,Man,Topware,tshirt,new,Addidas,1,4,148
+T shirt B,t-shirt description ,FALSE,800,750,50,Man,Topware,tshirt,new,Pumma,45,5,45
+T shirt C,t-shirt description ,FALSE,999,199,800,Man,Topware,tshirt,new,Addidas,1,4,148
+T shirt D,t-shirt description ,FALSE,2500,2200,545,Man,Topware,tshirt,new,Addidas,458,2,23
